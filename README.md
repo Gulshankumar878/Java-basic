@@ -1,2 +1,2 @@
 # Java-basic
-This is my basic Java repso.
+This is my basic Java repo.
